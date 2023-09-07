@@ -1,0 +1,36 @@
+header{
+    background-color: rgba(237, 183, 4, 0.915);
+}
+
+.Titulo{
+    display: flex;
+    justify-content: center;
+    background-color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(237, 183, 4, 0.915);
+}
+
+.navbar ul{
+    height: 100px;
+    background-color: rgba(237, 183, 4, 0.915);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+}
+
+.navbar ul li{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+
+
+.navbar ul a{
+    color: black
+}
+
+.Logo{
+    width: 100%;
+    height: 97px;
+    padding: 1px 0px 0px 0px;
+}
