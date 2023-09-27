@@ -2,9 +2,9 @@ import "./styless.css";
 
 const ItemListContainer = (prop) => {
     return(
-    <div className="container">
+    <div>
         <h1>
-            {prop.greeting}
+           
         </h1>
     </div>
     )

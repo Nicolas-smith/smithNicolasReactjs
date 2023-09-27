@@ -1,0 +1,26 @@
+.itemCard {
+    text-align: center;
+}
+
+.itemCard h1 {
+    font-size: 1.5rem; 
+    font-weight: bold; 
+    margin-bottom: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.itemCard p {
+    font-size: 1.5rem; 
+    font-weight: bold; 
+    margin-bottom: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.vinculo {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.vinculo:hover {
+    color: brown;
+}

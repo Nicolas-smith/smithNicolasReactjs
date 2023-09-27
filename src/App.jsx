@@ -1,13 +1,10 @@
-import { useState } from 'react';
 import './App.css';
-import Navbar from './components/Navbar/Navbar';
-import ItemListContainer from './components/ItemListContainer/ItemListContainer'
+import Navigation from './routes/Navigation';
 
 function App() {
   return (
     <div>
-      <Navbar brand="Morioh Manga"/>
-      <ItemListContainer greeting={"Bienvenidos a mi tienda!"}/>
+      <Navigation />
     </div>
   );
 }

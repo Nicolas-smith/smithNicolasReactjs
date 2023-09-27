@@ -1,0 +1,17 @@
+.detailCard h1 {
+    padding: 15px;
+    justify-content: center;
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.detailCard img {
+    display: flex;
+}
+
+.detailCard p {
+    display: flex;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 15px;
+}
